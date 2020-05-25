@@ -10,10 +10,12 @@
  Some example solutions are shown below:
 
 Solution to 20-Queens problem: 
-![Twenty Queens][twenty_queens]
+![Twenty Queens][twenty_queens]{height=400px width=500px}
 
 [twenty_queens]: ./20_queens_mac.png "20 Queens Problem"
 
-![Langford's 2-3][langfords]
+
+Solution to Langford's 2-3 problem: 
+![Langford's 2-3][langfords]{height=400px width=500px}
 
 [langfords]: ./langfords2_3.png "Langford's 2-3"
